@@ -1,5 +1,5 @@
-a = 20
-b = 10
+a = 6
+b = 2
 
 print(a + b)  # Addition
 print(a - b)  # Subtraction
@@ -9,5 +9,8 @@ print(a / b)  # Division
 # Floor Division (int)
 print(a // b)
 
-# Modulus
-print(a % b)  # Modulus
+# Exponent
+print(a ** b)  
+
+# Modulus (Remainder)
+print(17 % 2)
